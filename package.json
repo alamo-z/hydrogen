@@ -62,7 +62,7 @@
     "@jupyterlab/services": "^0.52.0",
     "@nteract/commutable": "^7.0.0",
     "@nteract/display-area": "^4.4.8",
-    "@nteract/mathjax": "^3.0.1",
+    "@nteract/mathjax": "^4.0.0",
     "@nteract/transform-plotly": "^3.2.5",
     "@nteract/transform-vega": "^3.2.6",
     "@nteract/transforms": "^4.4.7",
